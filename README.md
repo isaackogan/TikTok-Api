@@ -27,7 +27,7 @@ These sponsors have paid to be placed here or are my own affiliate links which I
     </a>
     <br>
        <a href="https://go.eulerstream.com/tiktok-api" target="_blank">
-        <img src="https://web.cdn.eulerstream.com/ads/euler-steam-gh-logo.gif" width="100" alt="Euler Stream TikTok API">
+        <img src="./imgs/tikapi.png" width="100" alt="Euler Stream TikTok API">
         <b></b>
         <div>
          <b>Euler Stream</b> is the #1 Free TikTok data provider for <b>Enterprises & TikTok Agencies</b>, serving >235M requests per month to tens of thousands of customers building TikTok integrations.
