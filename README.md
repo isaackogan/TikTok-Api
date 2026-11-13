@@ -22,9 +22,9 @@ These sponsors have paid to be placed here or are my own affiliate links which I
 
 <div align="center">
     <a href="https://www.ensembledata.com/?utm_source=github&utm_medium=githubpage&utm_campaign=david_thea_github&utm_id=david_thea_github" target="_blank">
-        <br>
+         <br/>
         <img src="https://raw.githubusercontent.com/davidteather/TikTok-Api/main/imgs/EnsembleData.png" width="100" alt="Ensemble Data">
-        <b></b>
+        <br/>
         <div>
          <b>EnsembleData</b> is the leading API provider for scraping Tiktok, Instagram, Youtube, and more. <br> Trusted by the major influencer marketing and social media listening platforms.
         </div>
@@ -32,14 +32,13 @@ These sponsors have paid to be placed here or are my own affiliate links which I
 </div>
 
 <div align="center">
-    <a href="https://tikhub.io/?utm_source=github&utm_medium=readme&utm_campaign=tiktok_api&ref=github_davidteather_tiktokapi" target="_blank">
-        <br>
-        <img src="https://raw.githubusercontent.com/davidteather/TikTok-Api/main/imgs/tikhub.png" width="100" alt="TikHub API">
-        <b></b>
-        <div>
-         <b>TikHub API</b> offers 700+ endpoints for fetching and analyzing data from 14+ social media platforms<br>including videos, users, comments, shops, products, and trends — all in one place.
-        </div>
-    </a>
+<br/>
+    
+[![Euler Stream API](https://web.cdn.eulerstream.com/ads/david-teather-gh-ad.gif?v=2)](https://go.eulerstream.com/tiktok-api-img)
+&nbsp;<b></b><br/>
+<a href="https://go.eulerstream.com/tiktok-api" target="_blank">
+    <b>Euler Stream</b> is the #1 provider of TikTok API data for <b>Enterprises & Agencies</b>, trusted by 30,000+ customers. Our focus is on quick, stable APIs with world-class documentation & SDKs.
+</a>
 </div>
 
 <div align="center">
