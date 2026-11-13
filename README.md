@@ -26,11 +26,11 @@ These sponsors have paid to be placed here or are my own affiliate links which I
         </div>
     </a>
     <br>
-    <a href="https://tikhub.io/?utm_source=github&utm_medium=readme&utm_campaign=tiktok_api&ref=github_davidteather_tiktokapi" target="_blank">
-        <img src="https://raw.githubusercontent.com/davidteather/TikTok-Api/main/imgs/tikhub.png" width="100" alt="TikHub API">
+       <a href="https://go.eulerstream.com/tiktok-api" target="_blank">
+        <img src="https://web.cdn.eulerstream.com/ads/euler-steam-gh-logo.gif" width="100" alt="Euler Stream TikTok API">
         <b></b>
         <div>
-         <b>TikHub API</b> offers 700+ endpoints for fetching and analyzing data from 14+ social media platforms<br>including videos, users, comments, shops, products, and trends — all in one place.
+         <b>Euler Stream</b> is the #1 Free TikTok data provider for <b>Enterprises & TikTok Agencies</b>, serving >235M requests per month to tens of thousands of customers building TikTok integrations.
         </div>
     </a>
     <br>
